@@ -37,3 +37,4 @@ bin*
 *.layout
 *.cbp
 *.depend
+~$port_*
